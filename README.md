@@ -20,7 +20,7 @@ i recommend this app for communicate signals to the Bluetooth module, after inst
 ![image](https://user-images.githubusercontent.com/29460924/115737994-427a2100-a3aa-11eb-958a-716ee0892dd3.jpeg)
 ![image2](https://user-images.githubusercontent.com/29460924/115738002-43ab4e00-a3aa-11eb-9f39-33ca57ee77cc.jpeg)
 
-Good Luck ! for the experiment and don't forget to visit my website and find me on social profiles
+Good Luck ! 
 
 Visit http://www.pasan.ga/ 
 Twitter : https://twitter.com/PasanLaksitha
